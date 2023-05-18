@@ -1,0 +1,3 @@
+[crate_roots]
+ERC20 = "src"
+tests = "tests"
