@@ -1,4 +1,4 @@
-use ERC20::ERC20::Token;
+use Contract::ERC20::Token;
 use starknet::contract_address_const;
 use starknet::testing::set_caller_address;
 use starknet::ContractAddress;
